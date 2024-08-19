@@ -65,7 +65,7 @@ npm install
 ```sh
 npm start
 ```
-> Observação: para o projeto BackEnd, garanta que o Node.js esteja instalado corretamente em sua máquina. Para instalar o Node.js acesse [Node.js](https://nodejs.org/en/download/prebuilt-installer)
+> Observação: para o projeto, garanta que o Node.js esteja instalado corretamente em sua máquina. Para instalar o Node.js acesse [Node.js](https://nodejs.org/en/download/prebuilt-installer)
 
 ## Layout da Aplicação :computer:
 https://github.com/user-attachments/assets/21246b30-7f47-440c-9559-d2fa46fe148e
