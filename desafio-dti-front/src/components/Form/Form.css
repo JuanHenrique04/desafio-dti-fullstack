@@ -1,0 +1,98 @@
+.formulario-container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    margin: 1em 50px;
+}
+
+.formulario-container h2 {
+    font-size: 2rem;
+}
+
+.formulario-container .formulario {
+    max-width: 95%;
+    background: #F7F7F7;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+    padding: 2em 4em;
+    flex: 1;
+    margin: auto;
+}
+.formulario-container .formulario h2 {
+    font-weight: 400;
+    font-size: 32px;
+}
+
+.campo {
+    margin: 24px 0;
+}
+
+.campo label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;
+}
+
+.campo input {
+    background: #FFFFFF;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    border-radius: 10px;
+    width: 100%;
+    border: none;
+    font-size: 1.25rem;
+    padding: 24px;
+    box-sizing: border-box;
+}
+
+.campo-notas input {
+    margin-bottom: 1em;
+}
+
+.vizualiza-notas {
+    font-size: 1.25rem;
+}
+
+.botao {
+    background: #ff7c24;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 32px;
+    color: #FFF;
+    cursor: pointer;
+    border: none;
+}
+
+.botao:hover {
+    color: #e7ff7c;
+}
+
+.container-botao {
+    display: flex;
+    justify-content: center;
+}
+
+.botao-calculo {
+    margin: 2em 0;
+}
+
+.aluno-inserido {
+    font-size: 1.25rem;
+}
+
+.lista-alunos {
+    text-align: center;
+    font-size: 1.25rem;
+}
+
+.relatorio-alunos {
+    font-size: 1.25rem;
+}
+
+@media (max-width: 460px) {
+    .formulario-container .formulario {
+        padding: 2em 1em;
+    }
+}
