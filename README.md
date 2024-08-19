@@ -20,7 +20,7 @@
 
 :small_blue_diamond: [Como rodar a Aplicação Web Local](#como-rodar-a-aplicação-web-local-computer)
 
-:small_blue_diamond: [Como testar a Aplicação Web com a API na AWS](#como-testar-a-aplicação-web-com-a-api-na-aws-computer)
+:small_blue_diamond: [Como testar a Aplicação Web online](#como-testar-a-aplicação-web-online-computer)
 
 :small_blue_diamond: [Layout da Aplicação](#layout-da-aplicação-computer)
 
@@ -69,15 +69,8 @@ npm start
 ```
 > Observação: para o projeto, garanta que o Node.js esteja instalado corretamente em sua máquina. Para instalar o Node.js acesse [Node.js](https://nodejs.org/en/download/prebuilt-installer)
 
-## Como testar a Aplicação Web com a API na AWS :computer:
-> Acesse o link: https://desafio-dti-front.vercel.app/ e siga os passos para que o site consiga consumir a API
-Clique na opção da barra e clique em Configurações do site
-![Captura de tela 2024-08-19 034224](https://github.com/user-attachments/assets/ca955d64-c349-4080-a75b-fa7dda418a3d)
-> 
-> Depois proucure a opção Conteúdo não seguro e altere para permitir (Não se precupe, é apenas para este site e para que o site consiga consumir a API que não seja HTTPS, ou seja, que é só HTTP) Depois que testar pode colocar a opção de volta ao padrão
-![Captura de tela 2 2024-08-19 034509](https://github.com/user-attachments/assets/7e600451-bd27-445c-bc8c-0f7dae41b68f)
->
-> Após esses passos, basta recarregar a página e testar
+## Como testar a Aplicação Web Online :computer:
+> Acesse o link: https://desafio-dti-front.vercel.app/
 
 ## Layout da Aplicação :computer:
 https://github.com/user-attachments/assets/21246b30-7f47-440c-9559-d2fa46fe148e
