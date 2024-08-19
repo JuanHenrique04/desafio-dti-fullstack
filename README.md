@@ -34,7 +34,7 @@
 
 ## Funcionalidades
 
-:heavy_check_mark: Recebe nome e notas dos alunos; 
+:heavy_check_mark: Recebe nome, notas e frequência dos alunos; 
 
 :heavy_check_mark: Realizar calculo de média de notas dos alunos.
 
