@@ -1,4 +1,3 @@
-// import alunosDB from "../models/mockAlunosDb.js"
 import { adicionarAluno, listarAlunos } from "../models/alunosModel.js";
 import calculaMedia from "../sevice/alunosService.js";
 
